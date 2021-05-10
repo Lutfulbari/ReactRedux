@@ -1,8 +1,8 @@
 .Book{
-    width: 300px;
+    width: 400px;
     margin: 10px auto;
     padding: 10px;
-    border: 1px solid ;
+    border: 3px solid ;
     border-radius: 5px;
 
 } 
